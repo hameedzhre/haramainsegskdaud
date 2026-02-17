@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "JanSport",
+    "slug": "jansport",
+    "url": "https://www.shopkidsbagpack.com/p/jansport.html",
+    "generated_at": "2026-02-17T02:40:22.525Z",
+    "total_products": 1,
+    "site_url": "https://www.shopkidsbagpack.com"
+  },
+  "brand": {
+    "name": "JanSport",
+    "slug": "jansport",
+    "url": "https://www.shopkidsbagpack.com/p/jansport.html"
+  },
+  "products": [
+    {
+      "product_id": "jansports-mlpzwz8i-9eeuz",
+      "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+      "slug": "jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar",
+      "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+      "gender": "Unisex",
+      "subcategory": "Casual Daypacks",
+      "price": 34.84,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "overall_score": 4.6,
+      "primary_use": "School, Everyday Use, Travel"
+    }
+  ]
+}
