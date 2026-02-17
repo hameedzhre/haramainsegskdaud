@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Champion",
+    "slug": "champion",
+    "url": "https://www.shopkidsbagpack.com/p/champion.html",
+    "generated_at": "2026-02-17T02:40:23.599Z",
+    "total_products": 1,
+    "site_url": "https://www.shopkidsbagpack.com"
+  },
+  "brand": {
+    "name": "Champion",
+    "slug": "champion",
+    "url": "https://www.shopkidsbagpack.com/p/champion.html"
+  },
+  "products": [
+    {
+      "product_id": "championm-mlpzwz8k-bxoy8",
+      "name": "Champion Manuscript Backpack, Black, OS",
+      "slug": "champion-manuscript-backpack-black-os",
+      "url": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html",
+      "gender": "Unisex",
+      "subcategory": "Casual Daypacks",
+      "price": 17.3,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "overall_score": 4.7,
+      "primary_use": "School, Gym, Travel, Everyday Use"
+    }
+  ]
+}
