@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "product_id": "B0D9B7KVDN",
+    "asin": "B0D9B7KVDN",
+    "slug": "al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-",
+    "generated_at": "2026-02-20T14:03:43.858Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-.html",
+      "gender": "https://www.haramainamberoud.com/p/men, women, unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/fragrance.html",
+      "amazon": "https://www.amazon.com/Al-Haramain-Amber-Extrait-Parfum/dp/B0D9B7KVDN/"
+    }
+  },
+  "product": {
+    "asin": "B0D9B7KVDN",
+    "product_title": "Al Haramain Amber Oud - Aqua Dubai - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Vanilla Fragrances - 3.33 oz",
+    "product_description": "Top Notes: The extrait de parfum opens with fresh bergamot, green notes, and mandarin orange, creating a vibrant first impression. These top notes give the scent a clean yet bold presence that suits perfumes for women and men. Middle Notes: Juicy melon and pineapple blend with blackcurrant and warm amber, making this a bold yet balanced women's and mens cologne. Base Notes: The base of this amber perfume combines galbanum and petitgrain with creamy vanilla and soft musk. It gives the perfume for women and men a smooth, elegant finish. Long Lasting Perfume: This women's and men's cologne is made to last. A true long lasting perfume for women and men, it holds its scent for hours without fading. Reliable and bold, it enhances any men's or women's fragrances collection. Tradition Meets Innovation: At Al Haramain, tradition meets modern perfumery to create exceptional fragrances. From perfumes for women to men's fragrances, every detail is carefully crafted.",
+    "category": "Beauty & Personal Care",
+    "subcategory": "Fragrance",
+    "price": 48.77,
+    "gender": "Men, Women, Unisex",
+    "size": "3.33 oz / 98 ml",
+    "ratings_score": 4.5,
+    "number_of_reviews": 727,
+    "fragrance_concentration": "Extrait de Parfum",
+    "top_notes": "Bergamot, Green Notes, Mandarin Orange",
+    "middle_notes": "Melon, Pineapple, Blackcurrant, Amber",
+    "base_notes": "Galbanum, Petitgrain, Vanilla, Musk",
+    "occasion": "Daily, Special Occasions",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United States",
+    "safety_information": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources.",
+    "ingredients_list": "Alcohol Denat, Fragrance (Parfum), Water, Glycerin",
+    "product_dimensions": "2.36 x 1.57 x 1.57 inches",
+    "item_weight": "1.54 pounds",
+    "amazon_url_link": "https://www.amazon.com/Al-Haramain-Amber-Extrait-Parfum/dp/B0D9B7KVDN/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/61RMYxQcaeL._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/71Ic9UcJWWL._SL1080_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/71oYn5FvSBL._SL1080_.jpg",
+    "product_id": "B0D9B7KVDN",
+    "slug": "al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-",
+    "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-.html",
+    "gender_url": "https://www.haramainamberoud.com/p/men, women, unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/fragrance.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61RMYxQcaeL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71Ic9UcJWWL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71oYn5FvSBL._SL1080_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Green Notes",
+      "Mandarin Orange"
+    ],
+    "middle_notes_array": [
+      "Melon",
+      "Pineapple",
+      "Blackcurrant",
+      "Amber"
+    ],
+    "base_notes_array": [
+      "Galbanum",
+      "Petitgrain",
+      "Vanilla",
+      "Musk"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0D9B7KVDN",
+      "name": "Al Haramain Amber Oud - Aqua Dubai - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Vanilla Fragrances - 3.33 oz",
+      "description": "Top Notes: The extrait de parfum opens with fresh bergamot, green notes, and mandarin orange, creating a vibrant first impression. These top notes give the scent a clean yet bold presence that suits perfumes for women and men. Middle Notes: Juicy melon and pineapple blend with blackcurrant and warm amber, making this a bold yet balanced women's and mens cologne. Base Notes: The base of this amber perfume combines galbanum and petitgrain with creamy vanilla and soft musk. It gives the perfume for women and men a smooth, elegant finish. Long Lasting Perfume: This women's and men's cologne is made to last. A true long lasting perfume for women and men, it holds its scent for hours without fading. Reliable and bold, it enhances any men's or women's fragrances collection. Tradition Meets Innovation: At Al Haramain, tradition meets modern perfumery to create exceptional fragrances. From perfumes for women to men's fragrances, every detail is carefully crafted.",
+      "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-.html",
+      "sku": "B0D9B7KVDN",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/Al-Haramain-Amber-Extrait-Parfum/dp/B0D9B7KVDN/",
+        "priceCurrency": "USD",
+        "price": 48.77,
+        "priceValidUntil": "2027-02-20",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 727,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0D9B7KVDN"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Beauty & Personal Care"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men, Women, Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "3.33 oz / 98 ml"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Extrait de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Green Notes, Mandarin Orange"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Melon, Pineapple, Blackcurrant, Amber"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Galbanum, Petitgrain, Vanilla, Musk"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Daily, Special Occasions"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United States"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat, Fragrance (Parfum), Water, Glycerin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "2.36 x 1.57 x 1.57 inches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "1.54 pounds"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61RMYxQcaeL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71Ic9UcJWWL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71oYn5FvSBL._SL1080_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men, Women, Unisex",
+            "item": "https://www.haramainamberoud.com/p/men, women, unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Fragrance",
+            "item": "https://www.haramainamberoud.com/p/fragrance.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud - Aqua Dubai - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Vanilla Fragrances - 3.33 oz",
+            "item": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-aqua-dubai-oud-cologne-for-men-amber-perfume-for-men-long-.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-20T14:03:39.903Z",
+    "last_updated": "2026-02-20T14:03:39.903Z"
+  }
+}
