@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "product_id": "B0D9B6Y4FX",
+    "asin": "B0D9B6Y4FX",
+    "slug": "al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f",
+    "generated_at": "2026-03-04T00:35:17.308Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f.html",
+      "gender": "https://www.haramainamberoud.com/p/men.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B0D9B6Y4FX/"
+    }
+  },
+  "product": {
+    "asin": "B0D9B6Y4FX",
+    "product_title": "Al Haramain Amber Oud - Aqua Dubai - Cologne for Men and Women - Bergamot, Amber, Musk Fragrances - Long Lasting Perfume for Men and Women - 2.5 oz",
+    "product_description": "Customers find this cologne to be of top quality, with a long-lasting scent that stays on skin for eight to ten hours. They appreciate its fresh, clean, and slightly sweet character, with one customer noting its zesty bergamot and mandarin opening notes. The fragrance receives positive feedback for its value, and one customer mentions its remarkable performance in both heat and cold conditions.",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 40.98,
+    "gender": "Men",
+    "size": "2.5 oz",
+    "ratings_score": 4.5,
+    "number_of_reviews": 1131,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Bergamot, Mandarin, Lemon",
+    "middle_notes": "Aquatic Notes, Jasmine, Mint",
+    "base_notes": "Amber, Musk, Cedarwood, Sandalwood, Vetiver",
+    "occasion": "Daytime, Casual, Summer, Office",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
+    "product_dimensions": "3 x 3 x 5 inches; 0.02 ounces",
+    "item_weight": "0.02 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0D9B6Y4FX/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/51VuWsCkazL._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/51Lv2-1NKlL._SL1080_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/71zUXL76J0L._SL1080_.jpg",
+    "img_url5": "https://m.media-amazon.com/images/I/71J80YqCtXL._SL1080_.jpg",
+    "img_url6": "https://m.media-amazon.com/images/I/61ntjYO5eqL._SL1280_.jpg",
+    "product_id": "B0D9B6Y4FX",
+    "slug": "al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f.html",
+    "gender_url": "https://www.haramainamberoud.com/p/men.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51VuWsCkazL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51Lv2-1NKlL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71zUXL76J0L._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71J80YqCtXL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61ntjYO5eqL._SL1280_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Mandarin",
+      "Lemon"
+    ],
+    "middle_notes_array": [
+      "Aquatic Notes",
+      "Jasmine",
+      "Mint"
+    ],
+    "base_notes_array": [
+      "Amber",
+      "Musk",
+      "Cedarwood",
+      "Sandalwood",
+      "Vetiver"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0D9B6Y4FX",
+      "name": "Al Haramain Amber Oud - Aqua Dubai - Cologne for Men and Women - Bergamot, Amber, Musk Fragrances - Long Lasting Perfume for Men and Women - 2.5 oz",
+      "description": "Customers find this cologne to be of top quality, with a long-lasting scent that stays on skin for eight to ten hours. They appreciate its fresh, clean, and slightly sweet character, with one customer noting its zesty bergamot and mandarin opening notes. The fragrance receives positive feedback for its value, and one customer mentions its remarkable performance in both heat and cold conditions.",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f.html",
+      "sku": "B0D9B6Y4FX",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0D9B6Y4FX/",
+        "priceCurrency": "USD",
+        "price": 40.98,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 1131,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0D9B6Y4FX"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "2.5 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Mandarin, Lemon"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Aquatic Notes, Jasmine, Mint"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Amber, Musk, Cedarwood, Sandalwood, Vetiver"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Daytime, Casual, Summer, Office"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3 x 3 x 5 inches; 0.02 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "0.02 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51VuWsCkazL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51Lv2-1NKlL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71zUXL76J0L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71J80YqCtXL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61ntjYO5eqL._SL1280_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.haramainamberoud.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud - Aqua Dubai - Cologne for Men and Women - Bergamot, Amber, Musk Fragrances - Long Lasting Perfume for Men and Women - 2.5 oz",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-aqua-dubai-cologne-for-men-and-women-bergamot-amber-musk-f.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.370Z",
+    "last_updated": "2026-03-04T00:35:06.370Z"
+  }
+}
