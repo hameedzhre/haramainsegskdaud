@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "product_id": "B09CTSG37T",
+    "asin": "B09CTSG37T",
+    "slug": "amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray",
+    "generated_at": "2026-03-04T00:35:10.512Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray.html",
+      "gender": "https://www.haramainamberoud.com/p/unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B09CTSG37T/"
+    }
+  },
+  "product": {
+    "asin": "B09CTSG37T",
+    "product_title": "Amber Oud - Bleu Edition by Al Haramain for Unisex - 2 oz EDP Spray",
+    "product_description": "Customers find the fragrance fresh and comparable to CocoMad, with a fairly masculine and elegant vibe. The cologne performs well and offers good value for money. The longevity receives mixed feedback - while some say it lasts a long time, others note it only lasts about 6 hours on skin. The projection and strength aspects also get mixed reviews, with some finding it decent while others say it lacks projection and is too strong.",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 42.74,
+    "gender": "Unisex",
+    "size": "2 oz",
+    "ratings_score": 4.4,
+    "number_of_reviews": 855,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Bergamot, Lemon, Mint",
+    "middle_notes": "Ginger, Aquatic Notes, Lavender",
+    "base_notes": "Amber, Musk, Cedarwood, Sandalwood, Vetiver",
+    "occasion": "Daytime, Casual, Summer",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
+    "product_dimensions": "2.3 x 5.1 x 6.7 inches; 2.1 ounces",
+    "item_weight": "2.1 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B09CTSG37T/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/519ywFGV0WL._SL1500_.jpg",
+    "product_id": "B09CTSG37T",
+    "slug": "amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray",
+    "url": "https://www.haramainamberoud.com/2026/03/amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray.html",
+    "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+      "https://m.media-amazon.com/images/I/519ywFGV0WL._SL1500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Lemon",
+      "Mint"
+    ],
+    "middle_notes_array": [
+      "Ginger",
+      "Aquatic Notes",
+      "Lavender"
+    ],
+    "base_notes_array": [
+      "Amber",
+      "Musk",
+      "Cedarwood",
+      "Sandalwood",
+      "Vetiver"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B09CTSG37T",
+      "name": "Amber Oud - Bleu Edition by Al Haramain for Unisex - 2 oz EDP Spray",
+      "description": "Customers find the fragrance fresh and comparable to CocoMad, with a fairly masculine and elegant vibe. The cologne performs well and offers good value for money. The longevity receives mixed feedback - while some say it lasts a long time, others note it only lasts about 6 hours on skin. The projection and strength aspects also get mixed reviews, with some finding it decent while others say it lacks projection and is too strong.",
+      "url": "https://www.haramainamberoud.com/2026/03/amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray.html",
+      "sku": "B09CTSG37T",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B09CTSG37T/",
+        "priceCurrency": "USD",
+        "price": 42.74,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 855,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B09CTSG37T"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "2 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Lemon, Mint"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Ginger, Aquatic Notes, Lavender"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Amber, Musk, Cedarwood, Sandalwood, Vetiver"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Daytime, Casual, Summer"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "2.3 x 5.1 x 6.7 inches; 2.1 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "2.1 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+        "https://m.media-amazon.com/images/I/519ywFGV0WL._SL1500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.haramainamberoud.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Amber Oud - Bleu Edition by Al Haramain for Unisex - 2 oz EDP Spray",
+            "item": "https://www.haramainamberoud.com/2026/03/amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.368Z",
+    "last_updated": "2026-03-04T00:35:06.368Z"
+  }
+}
