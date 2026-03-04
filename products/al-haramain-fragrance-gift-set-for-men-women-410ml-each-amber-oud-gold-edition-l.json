@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "product_id": "B0DZHLT71S",
+    "asin": "B0DZHLT71S",
+    "slug": "al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l",
+    "generated_at": "2026-03-04T00:35:22.856Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l.html",
+      "gender": "https://www.haramainamberoud.com/p/men.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B0DZHLT71S/"
+    }
+  },
+  "product": {
+    "asin": "B0DZHLT71S",
+    "product_title": "Al Haramain Fragrance Gift Set for Men & Women ? 4?10ml each, (Amber Oud Gold Edition + L'aventure + Azlan Oud Charcoal Edition + Destino)",
+    "product_description": "Customers find this cologne to be a great value and consider it the best Aventus clone available. The scent receives mixed reactions, with some finding it very nice while others describe it as cheap-smelling. Similarly, opinions on longevity are divided, with some saying it lasts long while others report it doesn't last at all.",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 49.09,
+    "gender": "Men",
+    "size": "4 x 10ml",
+    "ratings_score": 4.5,
+    "number_of_reviews": 901,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Varies by fragrance",
+    "middle_notes": "Varies by fragrance",
+    "base_notes": "Varies by fragrance",
+    "occasion": "Versatile, Discovery",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "5 x 4 x 6.2 inches; 1.36 ounces",
+    "item_weight": "1.36 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0DZHLT71S/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/5113-CmIr-L._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/51pBSFoGbpL._SL1080_.jpg",
+    "product_id": "B0DZHLT71S",
+    "slug": "al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l.html",
+    "gender_url": "https://www.haramainamberoud.com/p/men.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/5113-CmIr-L._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51pBSFoGbpL._SL1080_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
+    "top_notes_array": [
+      "Varies by fragrance"
+    ],
+    "middle_notes_array": [
+      "Varies by fragrance"
+    ],
+    "base_notes_array": [
+      "Varies by fragrance"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0DZHLT71S",
+      "name": "Al Haramain Fragrance Gift Set for Men & Women ? 4?10ml each, (Amber Oud Gold Edition + L'aventure + Azlan Oud Charcoal Edition + Destino)",
+      "description": "Customers find this cologne to be a great value and consider it the best Aventus clone available. The scent receives mixed reactions, with some finding it very nice while others describe it as cheap-smelling. Similarly, opinions on longevity are divided, with some saying it lasts long while others report it doesn't last at all.",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l.html",
+      "sku": "B0DZHLT71S",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0DZHLT71S/",
+        "priceCurrency": "USD",
+        "price": 49.09,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 901,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0DZHLT71S"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "4 x 10ml"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Varies by fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Varies by fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Varies by fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Versatile, Discovery"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "5 x 4 x 6.2 inches; 1.36 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "1.36 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/5113-CmIr-L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51pBSFoGbpL._SL1080_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.haramainamberoud.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Fragrance Gift Set for Men & Women ? 4?10ml each, (Amber Oud Gold Edition + L'aventure + Azlan Oud Charcoal Edition + Destino)",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-fragrance-gift-set-for-men-women-410ml-each-amber-oud-gold-edition-l.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.371Z",
+    "last_updated": "2026-03-04T00:35:06.371Z"
+  }
+}
