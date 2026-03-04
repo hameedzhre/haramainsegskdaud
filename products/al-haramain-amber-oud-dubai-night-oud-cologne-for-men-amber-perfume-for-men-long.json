@@ -3,83 +3,89 @@
     "product_id": "B0D9CZ8CBM",
     "asin": "B0D9CZ8CBM",
     "slug": "al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long",
-    "generated_at": "2026-02-20T14:03:42.410Z",
+    "generated_at": "2026-03-04T00:35:19.130Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
       "gender": "https://www.haramainamberoud.com/p/men.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
-      "subcategory": "https://www.haramainamberoud.com/p/fragrance.html",
-      "amazon": "https://www.amazon.com/Al-Haramain-Amber-Dubai-Unisex/dp/B0D9CZ8CBM/"
+      "subcategory": "https://www.haramainamberoud.com/p/cologne.html",
+      "amazon": "https://www.amazon.com/dp/B0D9CZ8CBM/"
     }
   },
   "product": {
     "asin": "B0D9CZ8CBM",
     "product_title": "Al Haramain Amber Oud - Dubai Night - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Saffron Fragrances - 3.33 oz",
-    "product_description": "Top Notes: The mens cologne opens with fresh bergamot, saffron, and elemi, creating a fresh yet spicy first impression. These top notes give the scent a balanced yet luxurious presence that suits perfumes for men. Middle Notes: Rich agarwood blends with soft Bulgarian rose and lily of the valley, making this a smooth and balanced men's cologne. Base Notes: The base of this mens cologne spray combines white musk and tonka bean with warm amber and earthy oakmoss. It gives the oud perfume for men a smooth, elegant finish. Long Lasting Perfume: This men's fragrance is made to last. A true long lasting perfume for men, it holds its scent for hours without fading. Reliable and bold, it enhances any men cologne collection. Tradition Meets Innovation: At Al Haramain, tradition meets modern perfumery to create exceptional fragrances. From perfumes for women to men's fragrances, every detail is carefully crafted.",
-    "category": "Beauty & Personal Care",
-    "subcategory": "Fragrance",
-    "price": 44.24,
+    "product_description": "Customers find this cologne has a pleasant scent, with one mentioning it's perfect for date night, and they appreciate its long-lasting effects. They consider it good value for money, and one customer notes its impressive projection.",
+    "category": "Fragrance",
+    "subcategory": "Cologne",
+    "price": 48,
     "gender": "Men",
-    "size": "3.33 oz / 98 ml",
+    "size": "3.33 oz",
     "ratings_score": 4.5,
-    "number_of_reviews": 235,
-    "fragrance_concentration": "Extrait de Parfum",
-    "top_notes": "Bergamot, Saffron, Elemi",
-    "middle_notes": "Agarwood (Oud), Bulgarian Rose, Lily of the Valley",
-    "base_notes": "White Musk, Tonka Bean, Amber, Oakmoss",
-    "occasion": "Daily, Special Occasions, Evening",
+    "number_of_reviews": 242,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Bergamot, Saffron, Cardamom",
+    "middle_notes": "Rose, Jasmine, Cedarwood",
+    "base_notes": "Amber, Oud, Tonka Bean, Musk, Vanilla, Patchouli",
+    "occasion": "Evening, Date Night, Office, Winter",
     "manufacturer": "Al Haramain",
-    "country_of_origin": "United States",
-    "safety_information": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources.",
-    "ingredients_list": "Alcohol Denat, Fragrance (Parfum), Water, Glycerin",
-    "product_dimensions": "6.77 x 5.08 x 2.24 inches",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "6.77 x 5.08 x 2.24 inches; 0.02 ounces",
     "item_weight": "0.02 ounces",
-    "amazon_url_link": "https://www.amazon.com/Al-Haramain-Amber-Dubai-Unisex/dp/B0D9CZ8CBM/",
-    "availability": "Available to ship in 1-2 days",
+    "amazon_url_link": "https://www.amazon.com/dp/B0D9CZ8CBM/",
+    "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/51whbjr1nWL._SL1024_.jpg",
     "img_url3": "https://m.media-amazon.com/images/I/61TNXpbjILL._SL1024_.jpg",
-    "img_url4": "https://m.media-amazon.com/images/I/61G+cQGoO3L._SL1080_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/61dWbTjQYnL._SL1024_.jpg",
     "img_url5": "https://m.media-amazon.com/images/I/51OoWy5-EuL._SL1024_.jpg",
+    "img_url6": "https://m.media-amazon.com/images/I/61G+cQGoO3L._SL1080_.jpg",
+    "img_url7": "https://m.media-amazon.com/images/I/51UbIF+JgXL._SL1024_.jpg",
     "product_id": "B0D9CZ8CBM",
     "slug": "al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long",
-    "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
     "gender_url": "https://www.haramainamberoud.com/p/men.html",
     "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
-    "subcategory_url": "https://www.haramainamberoud.com/p/fragrance.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/cologne.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
       "https://m.media-amazon.com/images/I/51whbjr1nWL._SL1024_.jpg",
       "https://m.media-amazon.com/images/I/61TNXpbjILL._SL1024_.jpg",
+      "https://m.media-amazon.com/images/I/61dWbTjQYnL._SL1024_.jpg",
+      "https://m.media-amazon.com/images/I/51OoWy5-EuL._SL1024_.jpg",
       "https://m.media-amazon.com/images/I/61G+cQGoO3L._SL1080_.jpg",
-      "https://m.media-amazon.com/images/I/51OoWy5-EuL._SL1024_.jpg"
+      "https://m.media-amazon.com/images/I/51UbIF+JgXL._SL1024_.jpg"
     ],
     "main_image": "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
     "top_notes_array": [
       "Bergamot",
       "Saffron",
-      "Elemi"
+      "Cardamom"
     ],
     "middle_notes_array": [
-      "Agarwood (Oud)",
-      "Bulgarian Rose",
-      "Lily of the Valley"
+      "Rose",
+      "Jasmine",
+      "Cedarwood"
     ],
     "base_notes_array": [
-      "White Musk",
-      "Tonka Bean",
       "Amber",
-      "Oakmoss"
+      "Oud",
+      "Tonka Bean",
+      "Musk",
+      "Vanilla",
+      "Patchouli"
     ],
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
       "@id": "https://www.haramainamberoud.com/#product-B0D9CZ8CBM",
       "name": "Al Haramain Amber Oud - Dubai Night - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Saffron Fragrances - 3.33 oz",
-      "description": "Top Notes: The mens cologne opens with fresh bergamot, saffron, and elemi, creating a fresh yet spicy first impression. These top notes give the scent a balanced yet luxurious presence that suits perfumes for men. Middle Notes: Rich agarwood blends with soft Bulgarian rose and lily of the valley, making this a smooth and balanced men's cologne. Base Notes: The base of this mens cologne spray combines white musk and tonka bean with warm amber and earthy oakmoss. It gives the oud perfume for men a smooth, elegant finish. Long Lasting Perfume: This men's fragrance is made to last. A true long lasting perfume for men, it holds its scent for hours without fading. Reliable and bold, it enhances any men cologne collection. Tradition Meets Innovation: At Al Haramain, tradition meets modern perfumery to create exceptional fragrances. From perfumes for women to men's fragrances, every detail is carefully crafted.",
-      "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
+      "description": "Customers find this cologne has a pleasant scent, with one mentioning it's perfect for date night, and they appreciate its long-lasting effects. They consider it good value for money, and one customer notes its impressive projection.",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html",
       "sku": "B0D9CZ8CBM",
       "brand": {
         "@type": "Brand",
@@ -88,11 +94,11 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/Al-Haramain-Amber-Dubai-Unisex/dp/B0D9CZ8CBM/",
+        "url": "https://www.amazon.com/dp/B0D9CZ8CBM/",
         "priceCurrency": "USD",
-        "price": 44.24,
-        "priceValidUntil": "2027-02-20",
-        "availability": "https://schema.org/OutOfStock",
+        "price": 48,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
           "name": "Amazon"
@@ -101,7 +107,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": 4.5,
-        "reviewCount": 235,
+        "reviewCount": 242,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -114,12 +120,12 @@
         {
           "@type": "PropertyValue",
           "name": "Category",
-          "value": "Beauty & Personal Care"
+          "value": "Fragrance"
         },
         {
           "@type": "PropertyValue",
           "name": "Subcategory",
-          "value": "Fragrance"
+          "value": "Cologne"
         },
         {
           "@type": "PropertyValue",
@@ -129,52 +135,52 @@
         {
           "@type": "PropertyValue",
           "name": "Size",
-          "value": "3.33 oz / 98 ml"
+          "value": "3.33 oz"
         },
         {
           "@type": "PropertyValue",
           "name": "Fragrance Concentration",
-          "value": "Extrait de Parfum"
+          "value": "Eau de Parfum"
         },
         {
           "@type": "PropertyValue",
           "name": "Top Notes",
-          "value": "Bergamot, Saffron, Elemi"
+          "value": "Bergamot, Saffron, Cardamom"
         },
         {
           "@type": "PropertyValue",
           "name": "Middle Notes",
-          "value": "Agarwood (Oud), Bulgarian Rose, Lily of the Valley"
+          "value": "Rose, Jasmine, Cedarwood"
         },
         {
           "@type": "PropertyValue",
           "name": "Base Notes",
-          "value": "White Musk, Tonka Bean, Amber, Oakmoss"
+          "value": "Amber, Oud, Tonka Bean, Musk, Vanilla, Patchouli"
         },
         {
           "@type": "PropertyValue",
           "name": "Occasion",
-          "value": "Daily, Special Occasions, Evening"
+          "value": "Evening, Date Night, Office, Winter"
         },
         {
           "@type": "PropertyValue",
           "name": "Country of Origin",
-          "value": "United States"
+          "value": "United Arab Emirates"
         },
         {
           "@type": "PropertyValue",
           "name": "Safety Information",
-          "value": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources."
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
         },
         {
           "@type": "PropertyValue",
           "name": "Ingredients",
-          "value": "Alcohol Denat, Fragrance (Parfum), Water, Glycerin"
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
         },
         {
           "@type": "PropertyValue",
           "name": "Product Dimensions",
-          "value": "6.77 x 5.08 x 2.24 inches"
+          "value": "6.77 x 5.08 x 2.24 inches; 0.02 ounces"
         },
         {
           "@type": "PropertyValue",
@@ -184,15 +190,17 @@
         {
           "@type": "PropertyValue",
           "name": "Availability",
-          "value": "Available to ship in 1-2 days"
+          "value": "In Stock"
         }
       ],
       "image": [
         "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
         "https://m.media-amazon.com/images/I/51whbjr1nWL._SL1024_.jpg",
         "https://m.media-amazon.com/images/I/61TNXpbjILL._SL1024_.jpg",
+        "https://m.media-amazon.com/images/I/61dWbTjQYnL._SL1024_.jpg",
+        "https://m.media-amazon.com/images/I/51OoWy5-EuL._SL1024_.jpg",
         "https://m.media-amazon.com/images/I/61G+cQGoO3L._SL1080_.jpg",
-        "https://m.media-amazon.com/images/I/51OoWy5-EuL._SL1024_.jpg"
+        "https://m.media-amazon.com/images/I/51UbIF+JgXL._SL1024_.jpg"
       ],
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -218,19 +226,19 @@
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Fragrance",
-            "item": "https://www.haramainamberoud.com/p/fragrance.html"
+            "name": "Cologne",
+            "item": "https://www.haramainamberoud.com/p/cologne.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Al Haramain Amber Oud - Dubai Night - Oud Cologne for Men - Amber Perfume for Men - Long Lasting Perfume with Bergamot, Saffron Fragrances - 3.33 oz",
-            "item": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html"
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-dubai-night-oud-cologne-for-men-amber-perfume-for-men-long.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-20T14:03:39.903Z",
-    "last_updated": "2026-02-20T14:03:39.903Z"
+    "created_at": "2026-03-04T00:35:06.370Z",
+    "last_updated": "2026-03-04T00:35:06.370Z"
   }
 }
