@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "product_id": "B0983NG3T6",
+    "asin": "B0983NG3T6",
+    "slug": "al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce",
+    "generated_at": "2026-03-04T00:35:09.307Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce.html",
+      "gender": "https://www.haramainamberoud.com/p/unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B0983NG3T6/"
+    }
+  },
+  "product": {
+    "asin": "B0983NG3T6",
+    "product_title": "Al Haramain Azlan Oud Bleu Edition For Unisex Extrait De Parfum Spray, 3.4 Ounce",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 62.57,
+    "gender": "Unisex",
+    "size": "3.4 oz",
+    "ratings_score": 4.2,
+    "number_of_reviews": 38,
+    "fragrance_concentration": "Extrait de Parfum",
+    "top_notes": "Bergamot, Lemon, Pink Pepper",
+    "middle_notes": "Jasmine, Rose, Saffron",
+    "base_notes": "Oud, Amber, Musk, Cedarwood, Sandalwood, Vanilla",
+    "occasion": "Evening, Special Occasions",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "3.35 x 3.35 x 4.75 inches; 3.4 ounces",
+    "item_weight": "3.4 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0983NG3T6/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/61sRWH+NRQL._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/51R58mLp4xL._SL1024_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/719H0GZmdAL._SL1500_.jpg",
+    "img_url5": "https://m.media-amazon.com/images/I/61yFWvXpjvL._SL1500_.jpg",
+    "product_id": "B0983NG3T6",
+    "slug": "al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce.html",
+    "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61sRWH+NRQL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51R58mLp4xL._SL1024_.jpg",
+      "https://m.media-amazon.com/images/I/719H0GZmdAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61yFWvXpjvL._SL1500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Lemon",
+      "Pink Pepper"
+    ],
+    "middle_notes_array": [
+      "Jasmine",
+      "Rose",
+      "Saffron"
+    ],
+    "base_notes_array": [
+      "Oud",
+      "Amber",
+      "Musk",
+      "Cedarwood",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0983NG3T6",
+      "name": "Al Haramain Azlan Oud Bleu Edition For Unisex Extrait De Parfum Spray, 3.4 Ounce",
+      "description": "Al Haramain Al Haramain Azlan Oud Bleu Edition For Unisex Extrait De Parfum Spray, 3.4 Ounce",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce.html",
+      "sku": "B0983NG3T6",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0983NG3T6/",
+        "priceCurrency": "USD",
+        "price": 62.57,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.2,
+        "reviewCount": 38,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0983NG3T6"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "3.4 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Extrait de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Lemon, Pink Pepper"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Jasmine, Rose, Saffron"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Oud, Amber, Musk, Cedarwood, Sandalwood, Vanilla"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Evening, Special Occasions"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3.35 x 3.35 x 4.75 inches; 3.4 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "3.4 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61sRWH+NRQL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51R58mLp4xL._SL1024_.jpg",
+        "https://m.media-amazon.com/images/I/719H0GZmdAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61yFWvXpjvL._SL1500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.haramainamberoud.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Azlan Oud Bleu Edition For Unisex Extrait De Parfum Spray, 3.4 Ounce",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-azlan-oud-bleu-edition-for-unisex-extrait-de-parfum-spray-34-ounce.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.368Z",
+    "last_updated": "2026-03-04T00:35:06.368Z"
+  }
+}
