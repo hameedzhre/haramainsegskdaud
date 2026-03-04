@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "product_id": "B07HG3M5TK",
+    "asin": "B07HG3M5TK",
+    "slug": "al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce",
+    "generated_at": "2026-03-04T00:35:07.444Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce.html",
+      "gender": "https://www.haramainamberoud.com/p/unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B07HG3M5TK/"
+    }
+  },
+  "product": {
+    "asin": "B07HG3M5TK",
+    "product_title": "Al Haramain Detour Noir Eau de Perfume Spray for Unisex, 3.33 Ounce",
+    "product_description": "Customers find this perfume has a rich, masculine scent with good longevity, lasting up to 8+ hours on skin and clothes. Moreover, they consider it a good Layton clone that's well worth the price, with good projection and performance. However, opinions about the sillage are mixed.",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 28.99,
+    "gender": "Unisex",
+    "size": "3.33 oz",
+    "ratings_score": 4.3,
+    "number_of_reviews": 3067,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Cardamom, Apple, Bergamot",
+    "middle_notes": "Lavender, Geranium, Rose",
+    "base_notes": "Vanilla, Sandalwood, Musk, Amber, Cedar",
+    "occasion": "Evening, Casual",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
+    "product_dimensions": "2.2 x 1.2 x 4.5 inches; 3.33 ounces",
+    "item_weight": "3.33 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B07HG3M5TK/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/51rMCdvEopL._SL1000_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/61EO7UcMbhL._SL1000_.jpg",
+    "img_url5": "https://m.media-amazon.com/images/I/5146OQ98fPL._SL1000_.jpg",
+    "img_url6": "https://m.media-amazon.com/images/I/61kJwjkkAhL._SL1000_.jpg",
+    "img_url7": "https://m.media-amazon.com/images/I/511MmHfuSkL._SL1000_.jpg",
+    "img_url8": "https://m.media-amazon.com/images/I/61VOLvRB80L._SL1000_.jpg",
+    "product_id": "B07HG3M5TK",
+    "slug": "al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce.html",
+    "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+      "https://m.media-amazon.com/images/I/51rMCdvEopL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61EO7UcMbhL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/5146OQ98fPL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61kJwjkkAhL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/511MmHfuSkL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61VOLvRB80L._SL1000_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
+    "top_notes_array": [
+      "Cardamom",
+      "Apple",
+      "Bergamot"
+    ],
+    "middle_notes_array": [
+      "Lavender",
+      "Geranium",
+      "Rose"
+    ],
+    "base_notes_array": [
+      "Vanilla",
+      "Sandalwood",
+      "Musk",
+      "Amber",
+      "Cedar"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B07HG3M5TK",
+      "name": "Al Haramain Detour Noir Eau de Perfume Spray for Unisex, 3.33 Ounce",
+      "description": "Customers find this perfume has a rich, masculine scent with good longevity, lasting up to 8+ hours on skin and clothes. Moreover, they consider it a good Layton clone that's well worth the price, with good projection and performance. However, opinions about the sillage are mixed.",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce.html",
+      "sku": "B07HG3M5TK",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B07HG3M5TK/",
+        "priceCurrency": "USD",
+        "price": 28.99,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 3067,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B07HG3M5TK"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "3.33 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Cardamom, Apple, Bergamot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Lavender, Geranium, Rose"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Vanilla, Sandalwood, Musk, Amber, Cedar"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Evening, Casual"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "2.2 x 1.2 x 4.5 inches; 3.33 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "3.33 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
+        "https://m.media-amazon.com/images/I/51rMCdvEopL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61EO7UcMbhL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/5146OQ98fPL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61kJwjkkAhL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/511MmHfuSkL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61VOLvRB80L._SL1000_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.haramainamberoud.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Detour Noir Eau de Perfume Spray for Unisex, 3.33 Ounce",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.367Z",
+    "last_updated": "2026-03-04T00:35:06.367Z"
+  }
+}
