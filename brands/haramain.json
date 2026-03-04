@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "Haramain",
+    "slug": "haramain",
+    "url": "https://www.haramainamberoud.com/p/haramain.html",
+    "generated_at": "2026-03-04T00:35:26.718Z",
+    "total_products": 1,
+    "site_url": "https://www.haramainamberoud.com"
+  },
+  "brand": {
+    "name": "Haramain",
+    "slug": "haramain",
+    "url": "https://www.haramainamberoud.com/p/haramain.html"
+  },
+  "products": [
+    {
+      "product_id": "B09WLS9182",
+      "asin": "B09WLS9182",
+      "name": "Haramain Al Amber Oud Gold Edition for Unisex - Arabian Perfume for Women & Men - Long Lasting Fragrance with Bergamot, Jasmine, Patchouli, Musk, Vanilla Notes - Arabic Eau de Parfum Spray - 3.33 oz",
+      "slug": "haramain-al-amber-oud-gold-edition-for-unisex-arabian-perfume-for-women-men-long",
+      "url": "https://www.haramainamberoud.com/2026/03/haramain-al-amber-oud-gold-edition-for-unisex-arabian-perfume-for-women-men-long.html",
+      "gender": "Women",
+      "subcategory": "Eau de Parfum",
+      "price": 40.39,
+      "image": "https://m.media-amazon.com/images/I/61iVRJnyF4L._SL1500_.jpg",
+      "ratings_score": 4.5,
+      "fragrance_concentration": "Eau de Parfum",
+      "occasion": "Evening, Date Night, Special Occasions"
+    }
+  ]
+}
