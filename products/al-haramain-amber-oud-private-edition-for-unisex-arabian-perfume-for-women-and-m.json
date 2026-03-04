@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "product_id": "B0983NKJSV",
+    "asin": "B0983NKJSV",
+    "slug": "al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m",
+    "generated_at": "2026-03-04T00:35:09.922Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m.html",
+      "gender": "https://www.haramainamberoud.com/p/women.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B0983NKJSV/"
+    }
+  },
+  "product": {
+    "asin": "B0983NKJSV",
+    "product_title": "Al Haramain Amber Oud - Private Edition for Unisex - Arabian Perfume for Women and Men - Arabic Long Lasting Fragrance with Bergamot, Vanilla, Musk and Cedarwood - 2 oz EDP Spray",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 51.91,
+    "gender": "Women",
+    "size": "2 oz",
+    "ratings_score": 4.6,
+    "number_of_reviews": 34,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Bergamot, Orange",
+    "middle_notes": "Rose, Jasmine, Spices",
+    "base_notes": "Oud, Vanilla, Musk, Cedarwood, Amber, Sandalwood",
+    "occasion": "Evening, Special Occasions",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "3.5 x 2.5 x 5.5 inches; 2 ounces",
+    "item_weight": "2 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0983NKJSV/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/51dyPY9-gPL._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/51qcWV5VznL._SL1080_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/61t34QnOcoL._SL1500_.jpg",
+    "img_url5": "https://m.media-amazon.com/images/I/61-RJ9n+yQL._SL1500_.jpg",
+    "img_url6": "https://m.media-amazon.com/images/I/61D1ekJlkOL._SL1500_.jpg",
+    "img_url7": "https://m.media-amazon.com/images/I/61G0TjYEmjL._SL1500_.jpg",
+    "product_id": "B0983NKJSV",
+    "slug": "al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m.html",
+    "gender_url": "https://www.haramainamberoud.com/p/women.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51dyPY9-gPL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51qcWV5VznL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61t34QnOcoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-RJ9n+yQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61D1ekJlkOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61G0TjYEmjL._SL1500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Orange"
+    ],
+    "middle_notes_array": [
+      "Rose",
+      "Jasmine",
+      "Spices"
+    ],
+    "base_notes_array": [
+      "Oud",
+      "Vanilla",
+      "Musk",
+      "Cedarwood",
+      "Amber",
+      "Sandalwood"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0983NKJSV",
+      "name": "Al Haramain Amber Oud - Private Edition for Unisex - Arabian Perfume for Women and Men - Arabic Long Lasting Fragrance with Bergamot, Vanilla, Musk and Cedarwood - 2 oz EDP Spray",
+      "description": "Al Haramain Al Haramain Amber Oud - Private Edition for Unisex - Arabian Perfume for Women and Men - Arabic Long Lasting Fragrance with Bergamot, Vanilla, Musk and Cedarwood - 2 oz EDP Spray",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m.html",
+      "sku": "B0983NKJSV",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0983NKJSV/",
+        "priceCurrency": "USD",
+        "price": 51.91,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 34,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0983NKJSV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "2 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Orange"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Rose, Jasmine, Spices"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Oud, Vanilla, Musk, Cedarwood, Amber, Sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Evening, Special Occasions"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3.5 x 2.5 x 5.5 inches; 2 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "2 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51dyPY9-gPL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51qcWV5VznL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61t34QnOcoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-RJ9n+yQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61D1ekJlkOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61G0TjYEmjL._SL1500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.haramainamberoud.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud - Private Edition for Unisex - Arabian Perfume for Women and Men - Arabic Long Lasting Fragrance with Bergamot, Vanilla, Musk and Cedarwood - 2 oz EDP Spray",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-private-edition-for-unisex-arabian-perfume-for-women-and-m.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.368Z",
+    "last_updated": "2026-03-04T00:35:06.368Z"
+  }
+}
