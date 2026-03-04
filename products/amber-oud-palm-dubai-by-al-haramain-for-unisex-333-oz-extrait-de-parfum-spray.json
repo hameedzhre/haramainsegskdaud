@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "product_id": "B0DM2G9XSG",
+    "asin": "B0DM2G9XSG",
+    "slug": "amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray",
+    "generated_at": "2026-03-04T00:35:20.466Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray.html",
+      "gender": "https://www.haramainamberoud.com/p/unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/marinara-sauces.html",
+      "amazon": "https://www.amazon.com/dp/B0DM2G9XSG/"
+    }
+  },
+  "product": {
+    "asin": "B0DM2G9XSG",
+    "product_title": "Amber Oud - Palm Dubai by Al Haramain for Unisex - 3.33 oz Extrait De Parfum Spray",
+    "category": "Fragrance",
+    "subcategory": "Marinara Sauces",
+    "price": 39.99,
+    "gender": "Unisex",
+    "size": "3.33 oz",
+    "ratings_score": 3.9,
+    "number_of_reviews": 37,
+    "fragrance_concentration": "Extrait de Parfum",
+    "top_notes": "Bergamot, Coconut, Date",
+    "middle_notes": "Rose, Jasmine, Cinnamon",
+    "base_notes": "Amber, Oud, Musk, Vanilla, Sandalwood, Patchouli",
+    "occasion": "Evening, Summer, Casual",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "3.35 x 3.35 x 4.75 inches; 15.87 ounces",
+    "item_weight": "15.87 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0DM2G9XSG/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/71h+O2GmdQL._SL1080_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/71qn-NYHNCL._SL1080_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/71xq7PSTOKL._SL1350_.jpg",
+    "product_id": "B0DM2G9XSG",
+    "slug": "amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray",
+    "url": "https://www.haramainamberoud.com/2026/03/amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray.html",
+    "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/marinara-sauces.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71h+O2GmdQL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71qn-NYHNCL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71xq7PSTOKL._SL1350_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
+    "top_notes_array": [
+      "Bergamot",
+      "Coconut",
+      "Date"
+    ],
+    "middle_notes_array": [
+      "Rose",
+      "Jasmine",
+      "Cinnamon"
+    ],
+    "base_notes_array": [
+      "Amber",
+      "Oud",
+      "Musk",
+      "Vanilla",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0DM2G9XSG",
+      "name": "Amber Oud - Palm Dubai by Al Haramain for Unisex - 3.33 oz Extrait De Parfum Spray",
+      "description": "Al Haramain Amber Oud - Palm Dubai by Al Haramain for Unisex - 3.33 oz Extrait De Parfum Spray",
+      "url": "https://www.haramainamberoud.com/2026/03/amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray.html",
+      "sku": "B0DM2G9XSG",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0DM2G9XSG/",
+        "priceCurrency": "USD",
+        "price": 39.99,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.9,
+        "reviewCount": 37,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0DM2G9XSG"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Marinara Sauces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "3.33 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Extrait de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Bergamot, Coconut, Date"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Rose, Jasmine, Cinnamon"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Amber, Oud, Musk, Vanilla, Sandalwood, Patchouli"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Evening, Summer, Casual"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3.35 x 3.35 x 4.75 inches; 15.87 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "15.87 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71h+O2GmdQL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71qn-NYHNCL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71xq7PSTOKL._SL1350_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.haramainamberoud.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Marinara Sauces",
+            "item": "https://www.haramainamberoud.com/p/marinara-sauces.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Amber Oud - Palm Dubai by Al Haramain for Unisex - 3.33 oz Extrait De Parfum Spray",
+            "item": "https://www.haramainamberoud.com/2026/03/amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.370Z",
+    "last_updated": "2026-03-04T00:35:06.370Z"
+  }
+}
