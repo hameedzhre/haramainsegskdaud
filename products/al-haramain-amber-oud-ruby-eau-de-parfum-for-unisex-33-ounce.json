@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "product_id": "B0B8X91J6M",
+    "asin": "B0B8X91J6M",
+    "slug": "al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce",
+    "generated_at": "2026-03-04T00:35:15.240Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
+      "gender": "https://www.haramainamberoud.com/p/unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+      "amazon": "https://www.amazon.com/dp/B0B8X91J6M/"
+    }
+  },
+  "product": {
+    "asin": "B0B8X91J6M",
+    "product_title": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
+    "product_description": "Customers find the perfume's presentation beautiful and appreciate its quality, with one noting it's better than the overrated gold edition. The longevity receives mixed feedback - while some say it lasts 9 hours on skin, others report it only lasts 3.4 seconds. Moreover, the scent receives mixed reactions, with some saying it smells wonderful while others note it smells too much like alcohol. Additionally, opinions on value are divided between those who find it well worth the price and those who consider it a waste of money. The perfume's projection and alcohol content also get mixed reviews, with some praising the projection while others report no projection at all, and some describing it as just alcohol.",
+    "category": "Fragrance",
+    "subcategory": "Eau de Parfum",
+    "price": 49.72,
+    "gender": "Unisex",
+    "size": "3.3 oz",
+    "ratings_score": 4.1,
+    "number_of_reviews": 1754,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Raspberry, Saffron, Bergamot",
+    "middle_notes": "Rose, Jasmine, Oud",
+    "base_notes": "Amber, Musk, Vanilla, Patchouli, Sandalwood, Cedarwood",
+    "occasion": "Evening, Special Occasions",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United Arab Emirates",
+    "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
+    "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
+    "product_dimensions": "3 x 3 x 5 inches; 3.39 ounces",
+    "item_weight": "3.39 ounces",
+    "amazon_url_link": "https://www.amazon.com/dp/B0B8X91J6M/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
+    "img_url5": "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
+    "img_url6": "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
+    "img_url7": "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg",
+    "product_id": "B0B8X91J6M",
+    "slug": "al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce",
+    "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
+    "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
+      "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
+      "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
+      "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
+    "top_notes_array": [
+      "Raspberry",
+      "Saffron",
+      "Bergamot"
+    ],
+    "middle_notes_array": [
+      "Rose",
+      "Jasmine",
+      "Oud"
+    ],
+    "base_notes_array": [
+      "Amber",
+      "Musk",
+      "Vanilla",
+      "Patchouli",
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0B8X91J6M",
+      "name": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
+      "description": "Customers find the perfume's presentation beautiful and appreciate its quality, with one noting it's better than the overrated gold edition. The longevity receives mixed feedback - while some say it lasts 9 hours on skin, others report it only lasts 3.4 seconds. Moreover, the scent receives mixed reactions, with some saying it smells wonderful while others note it smells too much like alcohol. Additionally, opinions on value are divided between those who find it well worth the price and those who consider it a waste of money. The perfume's projection and alcohol content also get mixed reviews, with some praising the projection while others report no projection at all, and some describing it as just alcohol.",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
+      "sku": "B0B8X91J6M",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0B8X91J6M/",
+        "priceCurrency": "USD",
+        "price": 49.72,
+        "priceValidUntil": "2027-03-04",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.1,
+        "reviewCount": 1754,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0B8X91J6M"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "3.3 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Raspberry, Saffron, Bergamot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Rose, Jasmine, Oud"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Amber, Musk, Vanilla, Patchouli, Sandalwood, Cedarwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Evening, Special Occasions"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United Arab Emirates"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3 x 3 x 5 inches; 3.39 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "3.39 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
+        "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
+        "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
+        "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.haramainamberoud.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eau de Parfum",
+            "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
+            "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-03-04T00:35:06.370Z",
+    "last_updated": "2026-03-04T00:35:06.370Z"
+  }
+}
