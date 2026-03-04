@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Marinara Sauces",
+    "slug": "marinara-sauces",
+    "url": "https://www.haramainamberoud.com/p/marinara-sauces.html",
+    "generated_at": "2026-03-04T00:35:29.030Z",
+    "total_products": 3,
+    "site_url": "https://www.haramainamberoud.com"
+  },
+  "subcategory": {
+    "name": "Marinara Sauces",
+    "slug": "marinara-sauces",
+    "url": "https://www.haramainamberoud.com/p/marinara-sauces.html"
+  },
+  "products": [
+    {
+      "product_id": "B09WLGSCTS",
+      "asin": "B09WLGSCTS",
+      "name": "Al Haramain Amber Oud Blue Edition for Men Eau de Parfum Spray, 6.7 Ounce",
+      "slug": "al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce",
+      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce.html",
+      "brand": "Al Haramain",
+      "gender": "Men",
+      "price": 61.17,
+      "image": "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
+      "ratings_score": 4.3,
+      "fragrance_concentration": "Eau de Parfum",
+      "occasion": "Summer, Daytime, Casual"
+    },
+    {
+      "product_id": "B0DM2G9XSG",
+      "asin": "B0DM2G9XSG",
+      "name": "Amber Oud - Palm Dubai by Al Haramain for Unisex - 3.33 oz Extrait De Parfum Spray",
+      "slug": "amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray",
+      "url": "https://www.haramainamberoud.com/2026/03/amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray.html",
+      "brand": "Al Haramain",
+      "gender": "Unisex",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
+      "ratings_score": 3.9,
+      "fragrance_concentration": "Extrait de Parfum",
+      "occasion": "Evening, Summer, Casual"
+    },
+    {
+      "product_id": "B0DQDW3R5N",
+      "asin": "B0DQDW3R5N",
+      "name": "Amber Oud Gold 999.9 - Dubai Edition by Al Haramain for Women - 3.33 oz Extrait De Parfum Spray",
+      "slug": "amber-oud-gold-9999-dubai-edition-by-al-haramain-for-women-333-oz-extrait-de-par",
+      "url": "https://www.haramainamberoud.com/2026/03/amber-oud-gold-9999-dubai-edition-by-al-haramain-for-women-333-oz-extrait-de-par.html",
+      "brand": "Al Haramain",
+      "gender": "Women",
+      "price": 55.75,
+      "image": "https://m.media-amazon.com/images/I/61oJaKdXTpL._SL1080_.jpg",
+      "ratings_score": 4.5,
+      "fragrance_concentration": "Extrait de Parfum",
+      "occasion": "Evening, Date Night, Special Occasions"
+    }
+  ]
+}
