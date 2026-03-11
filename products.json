@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-04T00:35:06.381Z",
-    "total_products": 29,
-    "last_sync": "2026-03-04T00:35:06.381Z",
+    "generated_at": "2026-03-11T12:38:32.196Z",
+    "total_products": 28,
+    "last_sync": "2026-03-11T12:38:32.196Z",
     "format_version": "2.0",
     "site_url": "https://www.haramainamberoud.com"
   },
@@ -29,7 +29,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "2.2 x 1.2 x 4.5 inches; 3.33 ounces",
       "item_weight": "3.33 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B07HG3M5TK/",
+      "amazon_url_link": "https://amzn.to/3MXfaI5",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -88,10 +88,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B07HG3M5TK/",
+          "url": "https://amzn.to/3MXfaI5",
           "priceCurrency": "USD",
           "price": 28.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -233,8 +233,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.367Z",
-      "last_updated": "2026-03-04T00:35:06.367Z"
+      "created_at": "2026-03-11T12:38:32.151Z",
+      "last_updated": "2026-03-11T12:38:32.151Z"
     },
     {
       "asin": "B081FXBD3D",
@@ -258,7 +258,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "4 x 5 x 4 inches; 4 ounces",
       "item_weight": "4 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B081FXBD3D/",
+      "amazon_url_link": "https://amzn.to/40U2FQG",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51v3rLOHN4L._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51AZydHpvLL._SL1080_.jpg",
@@ -319,10 +319,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B081FXBD3D/",
+          "url": "https://amzn.to/40U2FQG",
           "priceCurrency": "USD",
           "price": 47.37,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -464,8 +464,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.368Z",
-      "last_updated": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.151Z",
+      "last_updated": "2026-03-11T12:38:32.151Z"
     },
     {
       "asin": "B084QHZYSZ",
@@ -489,7 +489,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "2.2 x 5 x 6.7 inches; 2.01 ounces",
       "item_weight": "2.01 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B084QHZYSZ/",
+      "amazon_url_link": "https://amzn.to/4ujdidr",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61SMOUx1UhL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/510Lt9QlBTL._SL1000_.jpg",
@@ -542,10 +542,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B084QHZYSZ/",
+          "url": "https://amzn.to/4ujdidr",
           "priceCurrency": "USD",
           "price": 48.98,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -684,8 +684,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.368Z",
-      "last_updated": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.151Z",
+      "last_updated": "2026-03-11T12:38:32.151Z"
     },
     {
       "asin": "B0983NG3T6",
@@ -708,7 +708,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3.35 x 3.35 x 4.75 inches; 3.4 ounces",
       "item_weight": "3.4 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0983NG3T6/",
+      "amazon_url_link": "https://amzn.to/4rnw1le",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/61sRWH+NRQL._SL1080_.jpg",
@@ -762,10 +762,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0983NG3T6/",
+          "url": "https://amzn.to/4rnw1le",
           "priceCurrency": "USD",
           "price": 62.57,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -904,8 +904,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.368Z",
-      "last_updated": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B0983NKJSV",
@@ -928,7 +928,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3.5 x 2.5 x 5.5 inches; 2 ounces",
       "item_weight": "2 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0983NKJSV/",
+      "amazon_url_link": "https://amzn.to/47BB6PK",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51dyPY9-gPL._SL1080_.jpg",
@@ -985,10 +985,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0983NKJSV/",
+          "url": "https://amzn.to/47BB6PK",
           "priceCurrency": "USD",
           "price": 51.91,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1129,8 +1129,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.368Z",
-      "last_updated": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09CTSG37T",
@@ -1154,7 +1154,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "2.3 x 5.1 x 6.7 inches; 2.1 ounces",
       "item_weight": "2.1 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B09CTSG37T/",
+      "amazon_url_link": "https://amzn.to/4syBExT",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -1203,10 +1203,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09CTSG37T/",
+          "url": "https://amzn.to/4syBExT",
           "priceCurrency": "USD",
           "price": 42.74,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1343,8 +1343,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.368Z",
-      "last_updated": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09M41Q588",
@@ -1368,7 +1368,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "3 x 3 x 5 inches; 1 Pounds",
       "item_weight": "1 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B09M41Q588/",
+      "amazon_url_link": "https://amzn.to/3PbkS9J",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg",
       "product_id": "B09M41Q588",
@@ -1414,10 +1414,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09M41Q588/",
+          "url": "https://amzn.to/3PbkS9J",
           "priceCurrency": "USD",
           "price": 47,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1552,8 +1552,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.369Z",
-      "last_updated": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09W5VM6DM",
@@ -1577,7 +1577,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3 x 3 x 5 inches; 2.2 Pounds",
       "item_weight": "2.2 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B09W5VM6DM/",
+      "amazon_url_link": "https://amzn.to/4rAnJqw",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61A2XiNfWbL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -1638,10 +1638,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09W5VM6DM/",
+          "url": "https://amzn.to/4rAnJqw",
           "priceCurrency": "USD",
           "price": 56.13,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -1783,8 +1783,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.369Z",
-      "last_updated": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09WLGSCTS",
@@ -1808,7 +1808,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "3 x 3 x 5 inches; 6.7 ounces",
       "item_weight": "6.7 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B09WLGSCTS/",
+      "amazon_url_link": "https://amzn.to/4rJo9uN",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/519yk48c48L._SL1087_.jpg",
@@ -1863,10 +1863,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09WLGSCTS/",
+          "url": "https://amzn.to/4rJo9uN",
           "priceCurrency": "USD",
           "price": 61.17,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2006,8 +2006,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.369Z",
-      "last_updated": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09WLGYF34",
@@ -2031,7 +2031,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "2.2 x 5.1 x 6.7 inches; 1.43 Pounds",
       "item_weight": "1.43 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B09WLGYF34/",
+      "amazon_url_link": "https://amzn.to/4bBRnXn",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61VSQFlPUdL._SL1200_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51rOa1c9yHL._SL1200_.jpg",
@@ -2086,10 +2086,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09WLGYF34/",
+          "url": "https://amzn.to/4bBRnXn",
           "priceCurrency": "USD",
           "price": 43.96,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2229,8 +2229,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.369Z",
-      "last_updated": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z",
+      "last_updated": "2026-03-11T12:38:32.152Z"
     },
     {
       "asin": "B09WLJTSTD",
@@ -2253,7 +2253,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "3.8 x 1.9 x 5.75 inches; 6.7 ounces",
       "item_weight": "6.7 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B09WLJTSTD/",
+      "amazon_url_link": "https://amzn.to/4b4MAxE",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg",
       "product_id": "B09WLJTSTD",
@@ -2299,10 +2299,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09WLJTSTD/",
+          "url": "https://amzn.to/4b4MAxE",
           "priceCurrency": "USD",
           "price": 59.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2437,8 +2437,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.369Z",
-      "last_updated": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B09WLS9182",
@@ -2462,7 +2462,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3 x 3 x 5 inches; 3.3 ounces",
       "item_weight": "3.3 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B09WLS9182/",
+      "amazon_url_link": "https://amzn.to/4bozHNT",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61iVRJnyF4L._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -2517,10 +2517,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B09WLS9182/",
+          "url": "https://amzn.to/4bozHNT",
           "priceCurrency": "USD",
           "price": 40.39,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2659,8 +2659,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0B8X91J6M",
@@ -2684,7 +2684,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3 x 3 x 5 inches; 3.39 ounces",
       "item_weight": "3.39 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0B8X91J6M/",
+      "amazon_url_link": "https://amzn.to/4rlyH2Z",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
@@ -2742,10 +2742,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0B8X91J6M/",
+          "url": "https://amzn.to/4rlyH2Z",
           "priceCurrency": "USD",
           "price": 49.72,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -2886,235 +2886,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
-    },
-    {
-      "asin": "B0B8X91J6M",
-      "product_title": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
-      "product_description": "Customers find the perfume's presentation beautiful and appreciate its quality, with one noting it's better than the overrated gold edition. The longevity receives mixed feedback - while some say it lasts 9 hours on skin, others report it only lasts 3.4 seconds. Moreover, the scent receives mixed reactions, with some saying it smells wonderful while others note it smells too much like alcohol. Additionally, opinions on value are divided between those who find it well worth the price and those who consider it a waste of money. The perfume's projection and alcohol content also get mixed reviews, with some praising the projection while others report no projection at all, and some describing it as just alcohol.",
-      "category": "Fragrance",
-      "subcategory": "Eau de Parfum",
-      "price": 49.72,
-      "gender": "Unisex",
-      "size": "3.3 oz",
-      "ratings_score": 4.1,
-      "number_of_reviews": 1754,
-      "fragrance_concentration": "Eau de Parfum",
-      "top_notes": "Raspberry, Saffron, Bergamot",
-      "middle_notes": "Rose, Jasmine, Oud",
-      "base_notes": "Amber, Musk, Vanilla, Patchouli, Sandalwood, Cedarwood",
-      "occasion": "Evening, Special Occasions",
-      "manufacturer": "Al Haramain",
-      "country_of_origin": "United Arab Emirates",
-      "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
-      "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
-      "product_dimensions": "3 x 3 x 5 inches; 3.39 ounces",
-      "item_weight": "3.39 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0B8X91J6M/",
-      "availability": "In Stock",
-      "img_url1": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
-      "img_url2": "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
-      "img_url3": "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
-      "img_url4": "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
-      "img_url5": "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
-      "img_url6": "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
-      "img_url7": "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg",
-      "product_id": "B0B8X91J6M",
-      "slug": "al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce",
-      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
-      "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
-      "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
-      "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "image_urls": [
-        "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
-        "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
-        "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
-        "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg"
-      ],
-      "main_image": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
-      "top_notes_array": [
-        "Raspberry",
-        "Saffron",
-        "Bergamot"
-      ],
-      "middle_notes_array": [
-        "Rose",
-        "Jasmine",
-        "Oud"
-      ],
-      "base_notes_array": [
-        "Amber",
-        "Musk",
-        "Vanilla",
-        "Patchouli",
-        "Sandalwood",
-        "Cedarwood"
-      ],
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "@id": "https://www.haramainamberoud.com/#product-B0B8X91J6M",
-        "name": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
-        "description": "Customers find the perfume's presentation beautiful and appreciate its quality, with one noting it's better than the overrated gold edition. The longevity receives mixed feedback - while some say it lasts 9 hours on skin, others report it only lasts 3.4 seconds. Moreover, the scent receives mixed reactions, with some saying it smells wonderful while others note it smells too much like alcohol. Additionally, opinions on value are divided between those who find it well worth the price and those who consider it a waste of money. The perfume's projection and alcohol content also get mixed reviews, with some praising the projection while others report no projection at all, and some describing it as just alcohol.",
-        "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
-        "sku": "B0B8X91J6M",
-        "brand": {
-          "@type": "Brand",
-          "name": "Al Haramain",
-          "url": "https://www.haramainamberoud.com/p/al-haramain.html"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0B8X91J6M/",
-          "priceCurrency": "USD",
-          "price": 49.72,
-          "priceValidUntil": "2027-03-04",
-          "availability": "https://schema.org/InStock",
-          "seller": {
-            "@type": "Organization",
-            "name": "Amazon"
-          }
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": 4.1,
-          "reviewCount": 1754,
-          "bestRating": "5",
-          "worstRating": "1"
-        },
-        "additionalProperty": [
-          {
-            "@type": "PropertyValue",
-            "name": "ASIN",
-            "value": "B0B8X91J6M"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Category",
-            "value": "Fragrance"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Subcategory",
-            "value": "Eau de Parfum"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Gender",
-            "value": "Unisex"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Size",
-            "value": "3.3 oz"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Fragrance Concentration",
-            "value": "Eau de Parfum"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Top Notes",
-            "value": "Raspberry, Saffron, Bergamot"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Middle Notes",
-            "value": "Rose, Jasmine, Oud"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Base Notes",
-            "value": "Amber, Musk, Vanilla, Patchouli, Sandalwood, Cedarwood"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Occasion",
-            "value": "Evening, Special Occasions"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Country of Origin",
-            "value": "United Arab Emirates"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Safety Information",
-            "value": "For external use only. Keep away from flames and heat. Avoid contact with eyes."
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Ingredients",
-            "value": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Product Dimensions",
-            "value": "3 x 3 x 5 inches; 3.39 ounces"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Item Weight",
-            "value": "3.39 ounces"
-          },
-          {
-            "@type": "PropertyValue",
-            "name": "Availability",
-            "value": "In Stock"
-          }
-        ],
-        "image": [
-          "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
-          "https://m.media-amazon.com/images/I/81f0MO8mrBL._SL1440_.jpg",
-          "https://m.media-amazon.com/images/I/61xVyCOmNRL._SL1440_.jpg",
-          "https://m.media-amazon.com/images/I/71wBHY6-FIL._SL1440_.jpg",
-          "https://m.media-amazon.com/images/I/71F8RT66M4L._SL1500_.jpg",
-          "https://m.media-amazon.com/images/I/61S56NOjt-L._SL1500_.jpg",
-          "https://m.media-amazon.com/images/I/716Z8BR+XQL._SL1500_.jpg"
-        ],
-        "breadcrumb": {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://www.haramainamberoud.com"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Unisex",
-              "item": "https://www.haramainamberoud.com/p/unisex.html"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Al Haramain",
-              "item": "https://www.haramainamberoud.com/p/al-haramain.html"
-            },
-            {
-              "@type": "ListItem",
-              "position": 4,
-              "name": "Eau de Parfum",
-              "item": "https://www.haramainamberoud.com/p/eau-de-parfum.html"
-            },
-            {
-              "@type": "ListItem",
-              "position": 5,
-              "name": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
-              "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html"
-            }
-          ]
-        }
-      },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0CLFXGDB6",
@@ -3137,7 +2910,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "2.5 x 2.5 x 4.5 inches; 3.4 ounces",
       "item_weight": "3.4 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0CLFXGDB6/",
+      "amazon_url_link": "https://amzn.to/4biAOOZ",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61QyDICkxaL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51pUZCfTkkL._SL1080_.jpg",
@@ -3184,10 +2957,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0CLFXGDB6/",
+          "url": "https://amzn.to/4biAOOZ",
           "priceCurrency": "USD",
           "price": 59.68,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3323,8 +3096,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0CMFVPP49",
@@ -3348,7 +3121,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "2.5 x 1.2 x 4.5 inches; 4 ounces",
       "item_weight": "4 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0CMFVPP49/",
+      "amazon_url_link": "https://amzn.to/4sx6QxA",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51FlDLwyAHL._SL1000_.jpg",
@@ -3395,10 +3168,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0CMFVPP49/",
+          "url": "https://amzn.to/4sx6QxA",
           "priceCurrency": "USD",
           "price": 67.05,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3534,8 +3307,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0D9B6Y4FX",
@@ -3559,7 +3332,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "3 x 3 x 5 inches; 0.02 ounces",
       "item_weight": "0.02 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0D9B6Y4FX/",
+      "amazon_url_link": "https://amzn.to/4b4NV7E",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51VuWsCkazL._SL1080_.jpg",
@@ -3614,10 +3387,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0D9B6Y4FX/",
+          "url": "https://amzn.to/4b4NV7E",
           "priceCurrency": "USD",
           "price": 40.98,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3757,8 +3530,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0D9B7KVDN",
@@ -3782,7 +3555,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "2.36 x 1.57 x 1.57 inches; 1.54 Pounds",
       "item_weight": "1.54 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0D9B7KVDN/",
+      "amazon_url_link": "https://amzn.to/4b2oovM",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/61RMYxQcaeL._SL1080_.jpg",
@@ -3838,10 +3611,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0D9B7KVDN/",
+          "url": "https://amzn.to/4b2oovM",
           "priceCurrency": "USD",
           "price": 49.23,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -3981,8 +3754,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0D9BD795K",
@@ -4006,7 +3779,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3 x 3 x 5 inches; 0.02 ounces",
       "item_weight": "0.02 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0D9BD795K/",
+      "amazon_url_link": "https://amzn.to/4bdqtoR",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61cgsmNZXtL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51qsqs5S52L._SL1080_.jpg",
@@ -4060,10 +3833,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0D9BD795K/",
+          "url": "https://amzn.to/4bdqtoR",
           "priceCurrency": "USD",
           "price": 43.79,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4202,8 +3975,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0D9CZ8CBM",
@@ -4227,7 +4000,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "6.77 x 5.08 x 2.24 inches; 0.02 ounces",
       "item_weight": "0.02 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0D9CZ8CBM/",
+      "amazon_url_link": "https://amzn.to/4ujeltT",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/51whbjr1nWL._SL1024_.jpg",
@@ -4285,10 +4058,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0D9CZ8CBM/",
+          "url": "https://amzn.to/4ujeltT",
           "priceCurrency": "USD",
           "price": 48,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4429,8 +4202,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0DLB2WF7H",
@@ -4454,7 +4227,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "7.5 x 5.5 x 2.5 inches; 1.2 Pounds",
       "item_weight": "1.2 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DLB2WF7H/",
+      "amazon_url_link": "https://amzn.to/3PvOkr5",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61JEUZD9noL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/61fnnWWl-oL._SL1080_.jpg",
@@ -4505,10 +4278,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DLB2WF7H/",
+          "url": "https://amzn.to/3PvOkr5",
           "priceCurrency": "USD",
           "price": 60.47,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4645,8 +4418,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z",
+      "last_updated": "2026-03-11T12:38:32.153Z"
     },
     {
       "asin": "B0DM2G9XSG",
@@ -4669,7 +4442,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3.35 x 3.35 x 4.75 inches; 15.87 ounces",
       "item_weight": "15.87 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DM2G9XSG/",
+      "amazon_url_link": "https://amzn.to/3Nwq4Ve",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/71h+O2GmdQL._SL1080_.jpg",
@@ -4721,10 +4494,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DM2G9XSG/",
+          "url": "https://amzn.to/3Nwq4Ve",
           "priceCurrency": "USD",
           "price": 39.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -4862,8 +4635,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.370Z",
-      "last_updated": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0DNMBBNHD",
@@ -4886,7 +4659,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "7.5 x 5.5 x 2.5 inches; 1.2 Pounds",
       "item_weight": "1.2 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DNMBBNHD/",
+      "amazon_url_link": "https://amzn.to/4lsV996",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51rqzYq4XlL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/613P+dsMwDL._SL1080_.jpg",
@@ -4944,10 +4717,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DNMBBNHD/",
+          "url": "https://amzn.to/4lsV996",
           "priceCurrency": "USD",
           "price": 57.74,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5088,8 +4861,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0DQDW3R5N",
@@ -5112,7 +4885,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "6.69 x 5.06 x 2.25 inches; 8.82 ounces",
       "item_weight": "8.82 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DQDW3R5N/",
+      "amazon_url_link": "https://amzn.to/3Nwq87q",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/61oJaKdXTpL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/71T-5bd0P1L._SL1080_.jpg",
@@ -5171,10 +4944,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DQDW3R5N/",
+          "url": "https://amzn.to/3Nwq87q",
           "priceCurrency": "USD",
           "price": 55.75,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5315,8 +5088,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0DZHKSPKS",
@@ -5340,7 +5113,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "6 x 4 x 1.5 inches; 0.5 Pounds",
       "item_weight": "0.5 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DZHKSPKS/",
+      "amazon_url_link": "https://amzn.to/40q1wjC",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/610vBj9exDL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/5157Qd7UulL._SL1080_.jpg",
@@ -5387,10 +5160,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DZHKSPKS/",
+          "url": "https://amzn.to/40q1wjC",
           "priceCurrency": "USD",
           "price": 59.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5530,8 +5303,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0DZHLT71S",
@@ -5555,7 +5328,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "5 x 4 x 6.2 inches; 1.36 ounces",
       "item_weight": "1.36 ounces",
-      "amazon_url_link": "https://www.amazon.com/dp/B0DZHLT71S/",
+      "amazon_url_link": "https://amzn.to/4sekJ43",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/5113-CmIr-L._SL1080_.jpg",
@@ -5596,10 +5369,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0DZHLT71S/",
+          "url": "https://amzn.to/4sekJ43",
           "priceCurrency": "USD",
           "price": 49.09,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5736,8 +5509,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0FN5BQ3NN",
@@ -5761,7 +5534,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "5 x 3 x 2 inches; 0.5 Pounds",
       "item_weight": "0.5 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0FN5BQ3NN/",
+      "amazon_url_link": "https://amzn.to/47CYTie",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/81SSfyn0paL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/71G-rAoHKeL._SL1500_.jpg",
@@ -5820,10 +5593,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0FN5BQ3NN/",
+          "url": "https://amzn.to/47CYTie",
           "priceCurrency": "USD",
           "price": 39.95,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -5964,8 +5737,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0GDCN238Z",
@@ -5988,7 +5761,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
       "product_dimensions": "3.5 x 2.5 x 5 inches; 0.5 Pounds",
       "item_weight": "0.5 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0GDCN238Z/",
+      "amazon_url_link": "https://amzn.to/4lkpaaK",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/71NlAgMhxhL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/71f9k-PeykL._SL1500_.jpg",
@@ -6047,10 +5820,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0GDCN238Z/",
+          "url": "https://amzn.to/4lkpaaK",
           "priceCurrency": "USD",
           "price": 47.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6192,8 +5965,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.371Z",
-      "last_updated": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     },
     {
       "asin": "B0GDDBTB5X",
@@ -6216,7 +5989,7 @@
       "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
       "product_dimensions": "3.5 x 2.5 x 5 inches; 0.5 Pounds",
       "item_weight": "0.5 Pounds",
-      "amazon_url_link": "https://www.amazon.com/dp/B0GDDBTB5X/",
+      "amazon_url_link": "https://amzn.to/4unXExk",
       "availability": "In Stock",
       "img_url1": "https://m.media-amazon.com/images/I/71NcgRrnlbL._SL1500_.jpg",
       "img_url2": "https://m.media-amazon.com/images/I/81FgXeY0NHL._SL1500_.jpg",
@@ -6276,10 +6049,10 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.amazon.com/dp/B0GDDBTB5X/",
+          "url": "https://amzn.to/4unXExk",
           "priceCurrency": "USD",
           "price": 45.99,
-          "priceValidUntil": "2027-03-04",
+          "priceValidUntil": "2027-03-11",
           "availability": "https://schema.org/InStock",
           "seller": {
             "@type": "Organization",
@@ -6421,8 +6194,8 @@
           ]
         }
       },
-      "created_at": "2026-03-04T00:35:06.375Z",
-      "last_updated": "2026-03-04T00:35:06.375Z"
+      "created_at": "2026-03-11T12:38:32.154Z",
+      "last_updated": "2026-03-11T12:38:32.154Z"
     }
   ]
 }
