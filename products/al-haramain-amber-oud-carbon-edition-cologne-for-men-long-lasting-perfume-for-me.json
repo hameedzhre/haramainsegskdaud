@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "product_id": "B09M41Q588",
-    "asin": "B09M41Q588",
+    "product_id": "B09WLJTSTD",
+    "asin": "B09WLJTSTD",
     "slug": "al-haramain-amber-oud-carbon-edition-cologne-for-men-long-lasting-perfume-for-me",
-    "generated_at": "2026-03-11T12:38:38.410Z",
+    "generated_at": "2026-03-11T12:38:41.355Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,20 +11,19 @@
       "gender": "https://www.haramainamberoud.com/p/men.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/cologne.html",
-      "amazon": "https://amzn.to/3PbkS9J"
+      "amazon": "https://amzn.to/4b4MAxE"
     }
   },
   "product": {
-    "asin": "B09M41Q588",
-    "product_title": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 3.4 oz",
-    "product_description": "Customers like the perfume's fresh and crisp scent. The longevity receives mixed feedback - while some say it lasts all day, others report it only lasts about an hour. The quality also gets mixed reviews, with some finding it high quality while others express concerns.",
+    "asin": "B09WLJTSTD",
+    "product_title": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 6.7 oz",
     "category": "Fragrance",
     "subcategory": "Cologne",
-    "price": 47,
+    "price": 59.99,
     "gender": "Men",
-    "size": "3.4 oz",
-    "ratings_score": 4.1,
-    "number_of_reviews": 130,
+    "size": "6.7 oz",
+    "ratings_score": 4.3,
+    "number_of_reviews": 73,
     "fragrance_concentration": "Eau de Parfum",
     "top_notes": "Bergamot, Grapefruit, Cardamom",
     "middle_notes": "Lavender, Geranium, Vetiver",
@@ -34,21 +33,21 @@
     "country_of_origin": "United Arab Emirates",
     "safety_information": "For external use only. Keep away from flames and heat. Avoid contact with eyes.",
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
-    "product_dimensions": "3 x 3 x 5 inches; 1 Pounds",
-    "item_weight": "1 Pounds",
-    "amazon_url_link": "https://amzn.to/3PbkS9J",
+    "product_dimensions": "3.8 x 1.9 x 5.75 inches; 6.7 ounces",
+    "item_weight": "6.7 ounces",
+    "amazon_url_link": "https://amzn.to/4b4MAxE",
     "availability": "In Stock",
-    "img_url1": "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg",
-    "product_id": "B09M41Q588",
+    "img_url1": "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg",
+    "product_id": "B09WLJTSTD",
     "slug": "al-haramain-amber-oud-carbon-edition-cologne-for-men-long-lasting-perfume-for-me",
     "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-carbon-edition-cologne-for-men-long-lasting-perfume-for-me.html",
     "gender_url": "https://www.haramainamberoud.com/p/men.html",
     "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
     "subcategory_url": "https://www.haramainamberoud.com/p/cologne.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg"
+      "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg",
+    "main_image": "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg",
     "top_notes_array": [
       "Bergamot",
       "Grapefruit",
@@ -70,11 +69,11 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
-      "@id": "https://www.haramainamberoud.com/#product-B09M41Q588",
-      "name": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 3.4 oz",
-      "description": "Customers like the perfume's fresh and crisp scent. The longevity receives mixed feedback - while some say it lasts all day, others report it only lasts about an hour. The quality also gets mixed reviews, with some finding it high quality while others express concerns.",
+      "@id": "https://www.haramainamberoud.com/#product-B09WLJTSTD",
+      "name": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 6.7 oz",
+      "description": "Al Haramain Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 6.7 oz",
       "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-carbon-edition-cologne-for-men-long-lasting-perfume-for-me.html",
-      "sku": "B09M41Q588",
+      "sku": "B09WLJTSTD",
       "brand": {
         "@type": "Brand",
         "name": "Al Haramain",
@@ -82,9 +81,9 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://amzn.to/3PbkS9J",
+        "url": "https://amzn.to/4b4MAxE",
         "priceCurrency": "USD",
-        "price": 47,
+        "price": 59.99,
         "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
@@ -94,8 +93,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": 4.1,
-        "reviewCount": 130,
+        "ratingValue": 4.3,
+        "reviewCount": 73,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -103,7 +102,7 @@
         {
           "@type": "PropertyValue",
           "name": "ASIN",
-          "value": "B09M41Q588"
+          "value": "B09WLJTSTD"
         },
         {
           "@type": "PropertyValue",
@@ -123,7 +122,7 @@
         {
           "@type": "PropertyValue",
           "name": "Size",
-          "value": "3.4 oz"
+          "value": "6.7 oz"
         },
         {
           "@type": "PropertyValue",
@@ -168,12 +167,12 @@
         {
           "@type": "PropertyValue",
           "name": "Product Dimensions",
-          "value": "3 x 3 x 5 inches; 1 Pounds"
+          "value": "3.8 x 1.9 x 5.75 inches; 6.7 ounces"
         },
         {
           "@type": "PropertyValue",
           "name": "Item Weight",
-          "value": "1 Pounds"
+          "value": "6.7 ounces"
         },
         {
           "@type": "PropertyValue",
@@ -182,7 +181,7 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg"
+        "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg"
       ],
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -214,13 +213,13 @@
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 3.4 oz",
+            "name": "Al Haramain Amber Oud Carbon Edition - Cologne for Men - Long Lasting Perfume for Men - Arabian Perfume - Men's Cologne - Oud Perfume - 6.7 oz",
             "item": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-carbon-edition-cologne-for-men-long-lasting-perfume-for-me.html"
           }
         ]
       }
     },
-    "created_at": "2026-03-11T12:38:32.152Z",
-    "last_updated": "2026-03-11T12:38:32.152Z"
+    "created_at": "2026-03-11T12:38:32.153Z",
+    "last_updated": "2026-03-11T12:38:32.153Z"
   }
 }
