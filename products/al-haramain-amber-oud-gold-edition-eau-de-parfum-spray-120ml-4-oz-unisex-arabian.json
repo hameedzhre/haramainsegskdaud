@@ -3,7 +3,7 @@
     "product_id": "B081FXBD3D",
     "asin": "B081FXBD3D",
     "slug": "al-haramain-amber-oud-gold-edition-eau-de-parfum-spray-120ml-4-oz-unisex-arabian",
-    "generated_at": "2026-03-04T00:35:08.091Z",
+    "generated_at": "2026-03-11T12:38:34.443Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,7 +11,7 @@
       "gender": "https://www.haramainamberoud.com/p/women.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "amazon": "https://www.amazon.com/dp/B081FXBD3D/"
+      "amazon": "https://amzn.to/40U2FQG"
     }
   },
   "product": {
@@ -36,7 +36,7 @@
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
     "product_dimensions": "4 x 5 x 4 inches; 4 ounces",
     "item_weight": "4 ounces",
-    "amazon_url_link": "https://www.amazon.com/dp/B081FXBD3D/",
+    "amazon_url_link": "https://amzn.to/40U2FQG",
     "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/51v3rLOHN4L._SL1080_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/51AZydHpvLL._SL1080_.jpg",
@@ -97,10 +97,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/dp/B081FXBD3D/",
+        "url": "https://amzn.to/40U2FQG",
         "priceCurrency": "USD",
         "price": 47.37,
-        "priceValidUntil": "2027-03-04",
+        "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -242,7 +242,7 @@
         ]
       }
     },
-    "created_at": "2026-03-04T00:35:06.368Z",
-    "last_updated": "2026-03-04T00:35:06.368Z"
+    "created_at": "2026-03-11T12:38:32.151Z",
+    "last_updated": "2026-03-11T12:38:32.151Z"
   }
 }
