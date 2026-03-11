@@ -3,7 +3,7 @@
     "product_id": "B0DM2G9XSG",
     "asin": "B0DM2G9XSG",
     "slug": "amber-oud-palm-dubai-by-al-haramain-for-unisex-333-oz-extrait-de-parfum-spray",
-    "generated_at": "2026-03-04T00:35:20.466Z",
+    "generated_at": "2026-03-11T12:38:49.207Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,7 +11,7 @@
       "gender": "https://www.haramainamberoud.com/p/unisex.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/marinara-sauces.html",
-      "amazon": "https://www.amazon.com/dp/B0DM2G9XSG/"
+      "amazon": "https://amzn.to/3Nwq4Ve"
     }
   },
   "product": {
@@ -35,7 +35,7 @@
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
     "product_dimensions": "3.35 x 3.35 x 4.75 inches; 15.87 ounces",
     "item_weight": "15.87 ounces",
-    "amazon_url_link": "https://www.amazon.com/dp/B0DM2G9XSG/",
+    "amazon_url_link": "https://amzn.to/3Nwq4Ve",
     "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/71h+O2GmdQL._SL1080_.jpg",
@@ -87,10 +87,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/dp/B0DM2G9XSG/",
+        "url": "https://amzn.to/3Nwq4Ve",
         "priceCurrency": "USD",
         "price": 39.99,
-        "priceValidUntil": "2027-03-04",
+        "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -228,7 +228,7 @@
         ]
       }
     },
-    "created_at": "2026-03-04T00:35:06.370Z",
-    "last_updated": "2026-03-04T00:35:06.370Z"
+    "created_at": "2026-03-11T12:38:32.154Z",
+    "last_updated": "2026-03-11T12:38:32.154Z"
   }
 }
