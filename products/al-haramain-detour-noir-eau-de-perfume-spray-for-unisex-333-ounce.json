@@ -3,7 +3,7 @@
     "product_id": "B07HG3M5TK",
     "asin": "B07HG3M5TK",
     "slug": "al-haramain-detour-noir-eau-de-perfume-spray-for-unisex-333-ounce",
-    "generated_at": "2026-03-04T00:35:07.444Z",
+    "generated_at": "2026-03-11T12:38:33.633Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,7 +11,7 @@
       "gender": "https://www.haramainamberoud.com/p/unisex.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "amazon": "https://www.amazon.com/dp/B07HG3M5TK/"
+      "amazon": "https://amzn.to/3MXfaI5"
     }
   },
   "product": {
@@ -36,7 +36,7 @@
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
     "product_dimensions": "2.2 x 1.2 x 4.5 inches; 3.33 ounces",
     "item_weight": "3.33 ounces",
-    "amazon_url_link": "https://www.amazon.com/dp/B07HG3M5TK/",
+    "amazon_url_link": "https://amzn.to/3MXfaI5",
     "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -95,10 +95,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/dp/B07HG3M5TK/",
+        "url": "https://amzn.to/3MXfaI5",
         "priceCurrency": "USD",
         "price": 28.99,
-        "priceValidUntil": "2027-03-04",
+        "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -240,7 +240,7 @@
         ]
       }
     },
-    "created_at": "2026-03-04T00:35:06.367Z",
-    "last_updated": "2026-03-04T00:35:06.367Z"
+    "created_at": "2026-03-11T12:38:32.151Z",
+    "last_updated": "2026-03-11T12:38:32.151Z"
   }
 }
