@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-04T00:35:29.611Z",
-    "total_products": 29,
+    "generated_at": "2026-03-11T12:39:01.016Z",
+    "total_products": 28,
     "site_url": "https://www.haramainamberoud.com",
     "format_version": "2.0"
   },
@@ -25,9 +25,9 @@
       "image": "https://m.media-amazon.com/images/I/51u4FUufUjL._SL1000_.jpg",
       "ratings_score": 4.3,
       "number_of_reviews": 3067,
-      "amazon_url": "https://www.amazon.com/dp/B07HG3M5TK/",
+      "amazon_url": "https://amzn.to/3MXfaI5",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.367Z"
+      "created_at": "2026-03-11T12:38:32.151Z"
     },
     {
       "product_id": "B081FXBD3D",
@@ -48,9 +48,9 @@
       "image": "https://m.media-amazon.com/images/I/51v3rLOHN4L._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 1441,
-      "amazon_url": "https://www.amazon.com/dp/B081FXBD3D/",
+      "amazon_url": "https://amzn.to/40U2FQG",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.151Z"
     },
     {
       "product_id": "B084QHZYSZ",
@@ -71,9 +71,9 @@
       "image": "https://m.media-amazon.com/images/I/61SMOUx1UhL._SL1500_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 6465,
-      "amazon_url": "https://www.amazon.com/dp/B084QHZYSZ/",
+      "amazon_url": "https://amzn.to/4ujdidr",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.151Z"
     },
     {
       "product_id": "B0983NG3T6",
@@ -94,9 +94,9 @@
       "image": "https://m.media-amazon.com/images/I/51LKpbwg7tL._SL1080_.jpg",
       "ratings_score": 4.2,
       "number_of_reviews": 38,
-      "amazon_url": "https://www.amazon.com/dp/B0983NG3T6/",
+      "amazon_url": "https://amzn.to/4rnw1le",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B0983NKJSV",
@@ -117,9 +117,9 @@
       "image": "https://m.media-amazon.com/images/I/51vSADYNQbL._SL1080_.jpg",
       "ratings_score": 4.6,
       "number_of_reviews": 34,
-      "amazon_url": "https://www.amazon.com/dp/B0983NKJSV/",
+      "amazon_url": "https://amzn.to/47BB6PK",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09CTSG37T",
@@ -140,9 +140,9 @@
       "image": "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
       "ratings_score": 4.4,
       "number_of_reviews": 855,
-      "amazon_url": "https://www.amazon.com/dp/B09CTSG37T/",
+      "amazon_url": "https://amzn.to/4syBExT",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.368Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09M41Q588",
@@ -163,9 +163,9 @@
       "image": "https://m.media-amazon.com/images/I/61X2a0JYN1L._SL1080_.jpg",
       "ratings_score": 4.1,
       "number_of_reviews": 130,
-      "amazon_url": "https://www.amazon.com/dp/B09M41Q588/",
+      "amazon_url": "https://amzn.to/3PbkS9J",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09W5VM6DM",
@@ -186,9 +186,9 @@
       "image": "https://m.media-amazon.com/images/I/61A2XiNfWbL._SL1500_.jpg",
       "ratings_score": 4.6,
       "number_of_reviews": 1436,
-      "amazon_url": "https://www.amazon.com/dp/B09W5VM6DM/",
+      "amazon_url": "https://amzn.to/4rAnJqw",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09WLGSCTS",
@@ -209,9 +209,9 @@
       "image": "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
       "ratings_score": 4.3,
       "number_of_reviews": 204,
-      "amazon_url": "https://www.amazon.com/dp/B09WLGSCTS/",
+      "amazon_url": "https://amzn.to/4rJo9uN",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09WLGYF34",
@@ -232,9 +232,9 @@
       "image": "https://m.media-amazon.com/images/I/61VSQFlPUdL._SL1200_.jpg",
       "ratings_score": 4.2,
       "number_of_reviews": 159,
-      "amazon_url": "https://www.amazon.com/dp/B09WLGYF34/",
+      "amazon_url": "https://amzn.to/4bBRnXn",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.152Z"
     },
     {
       "product_id": "B09WLJTSTD",
@@ -255,9 +255,9 @@
       "image": "https://m.media-amazon.com/images/I/61NTGYi110L._SL1080_.jpg",
       "ratings_score": 4.3,
       "number_of_reviews": 73,
-      "amazon_url": "https://www.amazon.com/dp/B09WLJTSTD/",
+      "amazon_url": "https://amzn.to/4b4MAxE",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.369Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B09WLS9182",
@@ -278,9 +278,9 @@
       "image": "https://m.media-amazon.com/images/I/61iVRJnyF4L._SL1500_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 6465,
-      "amazon_url": "https://www.amazon.com/dp/B09WLS9182/",
+      "amazon_url": "https://amzn.to/4bozHNT",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0B8X91J6M",
@@ -301,32 +301,9 @@
       "image": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
       "ratings_score": 4.1,
       "number_of_reviews": 1754,
-      "amazon_url": "https://www.amazon.com/dp/B0B8X91J6M/",
+      "amazon_url": "https://amzn.to/4rlyH2Z",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
-    },
-    {
-      "product_id": "B0B8X91J6M",
-      "asin": "B0B8X91J6M",
-      "name": "Al Haramain Amber Oud Ruby Eau De Parfum for Unisex 3.3 Ounce",
-      "slug": "al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce",
-      "url": "https://www.haramainamberoud.com/2026/03/al-haramain-amber-oud-ruby-eau-de-parfum-for-unisex-33-ounce.html",
-      "brand": "Al Haramain",
-      "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
-      "price": 49.72,
-      "category": "Fragrance",
-      "subcategory": "Eau de Parfum",
-      "subcategory_url": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "gender": "Unisex",
-      "gender_url": "https://www.haramainamberoud.com/p/unisex.html",
-      "fragrance_concentration": "Eau de Parfum",
-      "occasion": "Evening, Special Occasions",
-      "image": "https://m.media-amazon.com/images/I/61WuI9KeeeL._SL1500_.jpg",
-      "ratings_score": 4.1,
-      "number_of_reviews": 1754,
-      "amazon_url": "https://www.amazon.com/dp/B0B8X91J6M/",
-      "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0CLFXGDB6",
@@ -347,9 +324,9 @@
       "image": "https://m.media-amazon.com/images/I/61QyDICkxaL._SL1080_.jpg",
       "ratings_score": 3.3,
       "number_of_reviews": 6,
-      "amazon_url": "https://www.amazon.com/dp/B0CLFXGDB6/",
+      "amazon_url": "https://amzn.to/4biAOOZ",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0CMFVPP49",
@@ -370,9 +347,9 @@
       "image": "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
       "ratings_score": 4.1,
       "number_of_reviews": 585,
-      "amazon_url": "https://www.amazon.com/dp/B0CMFVPP49/",
+      "amazon_url": "https://amzn.to/4sx6QxA",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0D9B6Y4FX",
@@ -393,9 +370,9 @@
       "image": "https://m.media-amazon.com/images/I/51Dkv7sgXfL._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 1131,
-      "amazon_url": "https://www.amazon.com/dp/B0D9B6Y4FX/",
+      "amazon_url": "https://amzn.to/4b4NV7E",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0D9B7KVDN",
@@ -416,9 +393,9 @@
       "image": "https://m.media-amazon.com/images/I/51LJJ8IulQL._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 756,
-      "amazon_url": "https://www.amazon.com/dp/B0D9B7KVDN/",
+      "amazon_url": "https://amzn.to/4b2oovM",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0D9BD795K",
@@ -439,9 +416,9 @@
       "image": "https://m.media-amazon.com/images/I/61cgsmNZXtL._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 589,
-      "amazon_url": "https://www.amazon.com/dp/B0D9BD795K/",
+      "amazon_url": "https://amzn.to/4bdqtoR",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0D9CZ8CBM",
@@ -462,9 +439,9 @@
       "image": "https://m.media-amazon.com/images/I/51iiojUA6gL._SL1024_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 242,
-      "amazon_url": "https://www.amazon.com/dp/B0D9CZ8CBM/",
+      "amazon_url": "https://amzn.to/4ujeltT",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0DLB2WF7H",
@@ -485,9 +462,9 @@
       "image": "https://m.media-amazon.com/images/I/61JEUZD9noL._SL1080_.jpg",
       "ratings_score": 4.7,
       "number_of_reviews": 78,
-      "amazon_url": "https://www.amazon.com/dp/B0DLB2WF7H/",
+      "amazon_url": "https://amzn.to/3PvOkr5",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.153Z"
     },
     {
       "product_id": "B0DM2G9XSG",
@@ -508,9 +485,9 @@
       "image": "https://m.media-amazon.com/images/I/612kt4FqPgL._SL1080_.jpg",
       "ratings_score": 3.9,
       "number_of_reviews": 37,
-      "amazon_url": "https://www.amazon.com/dp/B0DM2G9XSG/",
+      "amazon_url": "https://amzn.to/3Nwq4Ve",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.370Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0DNMBBNHD",
@@ -531,9 +508,9 @@
       "image": "https://m.media-amazon.com/images/I/51rqzYq4XlL._SL1080_.jpg",
       "ratings_score": 2.6,
       "number_of_reviews": 4,
-      "amazon_url": "https://www.amazon.com/dp/B0DNMBBNHD/",
+      "amazon_url": "https://amzn.to/4lsV996",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0DQDW3R5N",
@@ -554,9 +531,9 @@
       "image": "https://m.media-amazon.com/images/I/61oJaKdXTpL._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 107,
-      "amazon_url": "https://www.amazon.com/dp/B0DQDW3R5N/",
+      "amazon_url": "https://amzn.to/3Nwq87q",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0DZHKSPKS",
@@ -577,9 +554,9 @@
       "image": "https://m.media-amazon.com/images/I/610vBj9exDL._SL1080_.jpg",
       "ratings_score": 4.4,
       "number_of_reviews": 5189,
-      "amazon_url": "https://www.amazon.com/dp/B0DZHKSPKS/",
+      "amazon_url": "https://amzn.to/40q1wjC",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0DZHLT71S",
@@ -600,9 +577,9 @@
       "image": "https://m.media-amazon.com/images/I/51PU0TrjkrL._SL1080_.jpg",
       "ratings_score": 4.5,
       "number_of_reviews": 901,
-      "amazon_url": "https://www.amazon.com/dp/B0DZHLT71S/",
+      "amazon_url": "https://amzn.to/4sekJ43",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0FN5BQ3NN",
@@ -623,9 +600,9 @@
       "image": "https://m.media-amazon.com/images/I/81SSfyn0paL._SL1500_.jpg",
       "ratings_score": 4.6,
       "number_of_reviews": 13552,
-      "amazon_url": "https://www.amazon.com/dp/B0FN5BQ3NN/",
+      "amazon_url": "https://amzn.to/47CYTie",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0GDCN238Z",
@@ -646,9 +623,9 @@
       "image": "https://m.media-amazon.com/images/I/71NlAgMhxhL._SL1500_.jpg",
       "ratings_score": 4.6,
       "number_of_reviews": 24,
-      "amazon_url": "https://www.amazon.com/dp/B0GDCN238Z/",
+      "amazon_url": "https://amzn.to/4lkpaaK",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.371Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     },
     {
       "product_id": "B0GDDBTB5X",
@@ -669,9 +646,9 @@
       "image": "https://m.media-amazon.com/images/I/71NcgRrnlbL._SL1500_.jpg",
       "ratings_score": 4.6,
       "number_of_reviews": 24,
-      "amazon_url": "https://www.amazon.com/dp/B0GDDBTB5X/",
+      "amazon_url": "https://amzn.to/4unXExk",
       "availability": "In Stock",
-      "created_at": "2026-03-04T00:35:06.375Z"
+      "created_at": "2026-03-11T12:38:32.154Z"
     }
   ]
 }
