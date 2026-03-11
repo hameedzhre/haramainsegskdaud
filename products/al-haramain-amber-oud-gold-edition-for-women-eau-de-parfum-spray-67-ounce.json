@@ -3,7 +3,7 @@
     "product_id": "B09W5VM6DM",
     "asin": "B09W5VM6DM",
     "slug": "al-haramain-amber-oud-gold-edition-for-women-eau-de-parfum-spray-67-ounce",
-    "generated_at": "2026-03-04T00:35:11.822Z",
+    "generated_at": "2026-03-11T12:38:39.209Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,7 +11,7 @@
       "gender": "https://www.haramainamberoud.com/p/women.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "amazon": "https://www.amazon.com/dp/B09W5VM6DM/"
+      "amazon": "https://amzn.to/4rAnJqw"
     }
   },
   "product": {
@@ -36,7 +36,7 @@
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin, Benzyl Benzoate",
     "product_dimensions": "3 x 3 x 5 inches; 2.2 Pounds",
     "item_weight": "2.2 Pounds",
-    "amazon_url_link": "https://www.amazon.com/dp/B09W5VM6DM/",
+    "amazon_url_link": "https://amzn.to/4rAnJqw",
     "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/61A2XiNfWbL._SL1500_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -97,10 +97,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/dp/B09W5VM6DM/",
+        "url": "https://amzn.to/4rAnJqw",
         "priceCurrency": "USD",
         "price": 56.13,
-        "priceValidUntil": "2027-03-04",
+        "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -242,7 +242,7 @@
         ]
       }
     },
-    "created_at": "2026-03-04T00:35:06.369Z",
-    "last_updated": "2026-03-04T00:35:06.369Z"
+    "created_at": "2026-03-11T12:38:32.152Z",
+    "last_updated": "2026-03-11T12:38:32.152Z"
   }
 }
