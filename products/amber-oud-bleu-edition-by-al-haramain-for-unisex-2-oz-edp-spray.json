@@ -3,7 +3,7 @@
     "product_id": "B09CTSG37T",
     "asin": "B09CTSG37T",
     "slug": "amber-oud-bleu-edition-by-al-haramain-for-unisex-2-oz-edp-spray",
-    "generated_at": "2026-03-04T00:35:10.512Z",
+    "generated_at": "2026-03-11T12:38:37.664Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -11,7 +11,7 @@
       "gender": "https://www.haramainamberoud.com/p/unisex.html",
       "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
       "subcategory": "https://www.haramainamberoud.com/p/eau-de-parfum.html",
-      "amazon": "https://www.amazon.com/dp/B09CTSG37T/"
+      "amazon": "https://amzn.to/4syBExT"
     }
   },
   "product": {
@@ -36,7 +36,7 @@
     "ingredients_list": "Alcohol Denat., Fragrance (Parfum), Water (Aqua), Limonene, Linalool, Citronellol, Geraniol, Coumarin",
     "product_dimensions": "2.3 x 5.1 x 6.7 inches; 2.1 ounces",
     "item_weight": "2.1 ounces",
-    "amazon_url_link": "https://www.amazon.com/dp/B09CTSG37T/",
+    "amazon_url_link": "https://amzn.to/4syBExT",
     "availability": "In Stock",
     "img_url1": "https://m.media-amazon.com/images/I/61bMgbF0duL._SL1500_.jpg",
     "img_url2": "https://m.media-amazon.com/images/I/51rRKTNjUjL._SL1087_.jpg",
@@ -85,10 +85,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.amazon.com/dp/B09CTSG37T/",
+        "url": "https://amzn.to/4syBExT",
         "priceCurrency": "USD",
         "price": 42.74,
-        "priceValidUntil": "2027-03-04",
+        "priceValidUntil": "2027-03-11",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -225,7 +225,7 @@
         ]
       }
     },
-    "created_at": "2026-03-04T00:35:06.368Z",
-    "last_updated": "2026-03-04T00:35:06.368Z"
+    "created_at": "2026-03-11T12:38:32.152Z",
+    "last_updated": "2026-03-11T12:38:32.152Z"
   }
 }
